@@ -1,2 +1,2 @@
 #myapp
-this is my app
+DEVOPS staff traning on using GIT 
